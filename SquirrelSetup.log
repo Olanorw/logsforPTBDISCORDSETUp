@@ -1,0 +1,180 @@
+﻿23484> 2024-02-02 19:25:55> Program: Starting Squirrel Updater: --install .
+23484> 2024-02-02 19:25:55> Program: Starting install, writing to C:\Users\olavs\AppData\Local\SquirrelTemp
+23484> 2024-02-02 19:25:55> Program: About to install to: C:\Users\olavs\AppData\Local\Discord
+23484> 2024-02-02 19:25:55> SingleGlobalInstance: Grabbing lockfile with timeout of 00:00:10
+23484> 2024-02-02 19:25:55> CheckForUpdateImpl: Reading RELEASES file from C:\Users\olavs\AppData\Local\SquirrelTemp
+23484> 2024-02-02 19:25:55> CheckForUpdateImpl: Remote version 1.0.9032 differs from local 
+23484> 2024-02-02 19:25:55> CheckForUpdateImpl: First run or local directory is corrupt, starting from scratch
+23484> 2024-02-02 19:25:55> ApplyReleasesImpl: Writing files to app directory: C:\Users\olavs\AppData\Local\Discord\app-1.0.9032
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\d3dcompiler_47.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\d3dcompiler_47.dll
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\chrome_200_percent.pak to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\chrome_200_percent.pak
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\chrome_100_percent.pak to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\chrome_100_percent.pak
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\app.ico to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\app.ico
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\Discord.exe to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\Discord.exe
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\icudtl.dat to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\icudtl.dat
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\installer.db to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\installer.db
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\ffmpeg.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\ffmpeg.dll
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\libEGL.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\libEGL.dll
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\libGLESv2.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\libGLESv2.dll
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\resources.pak to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\resources.pak
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\snapshot_blob.bin to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\snapshot_blob.bin
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\updater.node to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\updater.node
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\vk_swiftshader.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\vk_swiftshader.dll
+23484> 2024-02-02 19:26:04> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\vulkan-1.dll to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\vulkan-1.dll
+23484> 2024-02-02 19:26:05> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\v8_context_snapshot.bin to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\v8_context_snapshot.bin
+23484> 2024-02-02 19:26:05> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\lib\net45\vk_swiftshader_icd.json to C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\vk_swiftshader_icd.json
+23484> 2024-02-02 19:26:06> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\Discord.exe]
+23484> 2024-02-02 19:26:07> Utility: Process Started: C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\Discord.exe --squirrel-install 1.0.9032, pid 27900
+23484> 2024-02-02 19:26:12> Utility: Received exitcode 0 from process C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\Discord.exe
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: ran C:\Users\olavs\AppData\Local\Discord\app-1.0.9032\Discord.exe, pid 17460
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: Starting fixPinnedExecutables
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-1.0.9032
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\LiveCaptions.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\VoiceAccess.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+23484> 2024-02-02 19:26:12> ApplyReleasesImpl: Updating shortcut C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord.lnk
+23484> 2024-02-02 19:26:13> ApplyReleasesImpl: Updating shortcut C:\Users\olavs\OneDrive\Desktop\Discord.lnk
+23484> 2024-02-02 19:26:13> ApplyReleasesImpl: Fixing up tray icons
+23484> 2024-02-02 19:26:13> ApplyReleasesImpl: cleanDeadVersions: for version 1.0.9032
+23484> 2024-02-02 19:26:13> ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.0.9032
+36028> 2024-02-06 11:24:17> Program: Starting Squirrel Updater: --install .
+36028> 2024-02-06 11:24:17> Program: Starting install, writing to C:\Users\olavs\AppData\Local\SquirrelTemp
+36028> 2024-02-06 11:24:17> Program: About to install to: C:\Users\olavs\AppData\Local\DiscordPTB
+36028> 2024-02-06 11:24:17> SingleGlobalInstance: Grabbing lockfile with timeout of 00:00:10
+36028> 2024-02-06 11:24:17> CheckForUpdateImpl: Reading RELEASES file from C:\Users\olavs\AppData\Local\SquirrelTemp
+36028> 2024-02-06 11:24:17> CheckForUpdateImpl: Remote version 1.0.1054 differs from local 
+36028> 2024-02-06 11:24:17> CheckForUpdateImpl: First run or local directory is corrupt, starting from scratch
+36028> 2024-02-06 11:24:17> ApplyReleasesImpl: Writing files to app directory: C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\chrome_100_percent.pak to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\chrome_100_percent.pak
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\chrome_200_percent.pak to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\chrome_200_percent.pak
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\d3dcompiler_47.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\d3dcompiler_47.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\app.ico to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\app.ico
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\DiscordPTB.exe to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\DiscordPTB.exe
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\icudtl.dat to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\icudtl.dat
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\ffmpeg.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\ffmpeg.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\installer.db to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\installer.db
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\libGLESv2.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\libGLESv2.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\libEGL.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\libEGL.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\resources.pak to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\resources.pak
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\snapshot_blob.bin to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\snapshot_blob.bin
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\updater.node to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\updater.node
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\vk_swiftshader.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\vk_swiftshader.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\vulkan-1.dll to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\vulkan-1.dll
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\vk_swiftshader_icd.json to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\vk_swiftshader_icd.json
+36028> 2024-02-06 11:24:19> ApplyReleasesImpl: Moving file C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\lib\net45\v8_context_snapshot.bin to C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\v8_context_snapshot.bin
+36028> 2024-02-06 11:24:20> ApplyReleasesImpl: Squirrel Enabled Apps: [C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\DiscordPTB.exe]
+36028> 2024-02-06 11:24:21> Utility: Process Started: C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\DiscordPTB.exe --squirrel-install 1.0.1054, pid 11104
+36028> 2024-02-06 11:24:23> Utility: Received exitcode 0 from process C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\DiscordPTB.exe
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: ran C:\Users\olavs\AppData\Local\DiscordPTB\app-1.0.1054\DiscordPTB.exe, pid 41944
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: Starting fixPinnedExecutables
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: fixPinnedExecutables: newCurrentFolder: app-1.0.1054
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\LiveCaptions.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\Narrator.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\On-Screen Keyboard.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: File 'C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Accessibility\VoiceAccess.lnk' could not be converted into a valid ShellLink: System.IO.FileNotFoundException: The system cannot find the file specified. (Exception from HRESULT: 0x80070002)
+   at Squirrel.Shell.ShellLink.IShellLinkW.Resolve(IntPtr hWnd, UInt32 fFlags)
+   at Squirrel.Shell.ShellLink.Open(String linkFile, IntPtr hWnd, EShellLinkResolveFlags resolveFlags, UInt16 timeOut)
+   at Squirrel.UpdateManager.ApplyReleasesImpl.<fixPinnedExecutables>b__11_0(FileInfo file)
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: Updating shortcut C:\Users\olavs\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Discord Inc\Discord PTB.lnk
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: Updating shortcut C:\Users\olavs\OneDrive\Desktop\Discord PTB.lnk
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: Fixing up tray icons
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: cleanDeadVersions: for version 1.0.1054
+36028> 2024-02-06 11:24:23> ApplyReleasesImpl: cleanDeadVersions: exclude current version folder app-1.0.1054
+
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+41584> 2024-02-06 11:24:21> Unhandled exception: System.AggregateException: One or more errors occurred. ---> System.IO.IOException: Access to the path 'C:\Users\olavs\AppData\Local\Discord' is denied.
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+---> (Inner Exception #0) System.IO.IOException: Access to the path 'C:\Users\olavs\AppData\Local\Discord' is denied.
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
+6696> 2024-02-06 11:24:48> Program: Starting Squirrel Updater: --install .
+6696> 2024-02-06 11:24:48> Program: Starting install, writing to C:\Users\olavs\AppData\Local\SquirrelTemp
+6696> 2024-02-06 11:24:48> Program: About to install to: C:\Users\olavs\AppData\Local\DiscordPTB
+6696> 2024-02-06 11:24:48> Program: Install path C:\Users\olavs\AppData\Local\DiscordPTB already exists, burning it to the ground
+6696> 2024-02-06 11:24:48> IEnableLogger: Failed to remove existing directory on full install, is the app still running???: System.IO.IOException: Access to the path 'C:\Users\olavs\AppData\Local\DiscordPTB' is denied.
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+6696> 2024-02-06 11:24:48> Unhandled exception: System.AggregateException: One or more errors occurred. ---> System.IO.IOException: Access to the path 'C:\Users\olavs\AppData\Local\DiscordPTB' is denied.
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<Install>d__5.MoveNext()
+   --- End of inner exception stack trace ---
+   at System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   at System.Threading.Tasks.Task.Wait(Int32 millisecondsTimeout, CancellationToken cancellationToken)
+   at System.Threading.Tasks.Task.Wait()
+   at Squirrel.Update.Program.executeCommandLine(String[] args)
+   at Squirrel.Update.Program.main(String[] args)
+---> (Inner Exception #0) System.IO.IOException: Access to the path 'C:\Users\olavs\AppData\Local\DiscordPTB' is denied.
+   at System.IO.Directory.InternalMove(String sourceDirName, String destDirName, Boolean checkHost)
+   at Squirrel.Utility.<DeleteDirectory>d__22.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Utility.<LogIfThrows>d__37.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Squirrel.Update.Program.<Install>d__5.MoveNext()<---
+
